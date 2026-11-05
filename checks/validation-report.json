@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:34.626644+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z7201-meditative-synth-harmony-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "a676ab2a5b5aa549468225c3a68b86c90d96c590156ddab001d64cb2e0f2b6ac",
+      "errors": []
+    },
+    {
+      "path": "midi/z7201-meditative-synth-harmony-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "5571afb72146f2ffac858dee1daf96bcc9cccfe41f03622e73a21d8265609e2a",
+      "errors": []
+    },
+    {
+      "path": "midi/z7201-meditative-synth-harmony-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7201-meditative-synth-harmony-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "2a56a8fbe05c9f8fb809e7618dfefda0f86410f40d09487488627e3be479c669",
+      "errors": []
+    },
+    {
+      "path": "midi/z7201-meditative-synth-harmony-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "8af7f441461259aed9dece0ff9e02d105b66bd8d8dc3861496114cb69960aed6",
+      "errors": []
+    },
+    {
+      "path": "midi/z7201-meditative-synth-harmony-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3be087c573d10243036d9453648c4bf882bd6624a5ba32232b61052cc1aed54a",
+      "errors": []
+    },
+    {
+      "path": "midi/z7201-meditative-synth-harmony-opening/z7201-meditative-synth-harmony-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "076e56a3bdcd083f9f74c72437b2deb9aba731016eb3ba3a5f0c555de6b1f6f0",
+      "errors": []
+    },
+    {
+      "path": "midi/z7202-meditative-synth-harmony-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "bde3a09ff606188e5ea8e804668caafcad815c2b4351da2931e106196b6d09a0",
+      "errors": []
+    },
+    {
+      "path": "midi/z7202-meditative-synth-harmony-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "72375576d6150982e713f50b2981ce45634074a3aa42504deff2c560b88b4b36",
+      "errors": []
+    },
+    {
+      "path": "midi/z7202-meditative-synth-harmony-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7202-meditative-synth-harmony-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "0042a6da81bf6ab70c7451aed0379263e9adc03865cc3c98aa42982bdcb87a7c",
+      "errors": []
+    },
+    {
+      "path": "midi/z7202-meditative-synth-harmony-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "3bcc2083fea6108eab8f9048ad116eb57bf0535fe3ce5fde5fd5078c98631fda",
+      "errors": []
+    },
+    {
+      "path": "midi/z7202-meditative-synth-harmony-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "8f27bf4d2da874984705d47f3526535f9e21af22caed75480c1d0104d50f47ff",
+      "errors": []
+    },
+    {
+      "path": "midi/z7202-meditative-synth-harmony-variation/z7202-meditative-synth-harmony-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "055e694e2f9470606a39587e050b3e4acea18e3cace512f25beed22078471cee",
+      "errors": []
+    },
+    {
+      "path": "midi/z7203-meditative-synth-harmony-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "4ff27f4738b45a6feaff3d10990cb6bcaf7f8cafb930165a3198cf9e9034ce52",
+      "errors": []
+    },
+    {
+      "path": "midi/z7203-meditative-synth-harmony-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e2d9fcce8fee3b8fe23415a70cc38af345ff13300af1218e498bc1f2db1a6c03",
+      "errors": []
+    },
+    {
+      "path": "midi/z7203-meditative-synth-harmony-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7203-meditative-synth-harmony-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "0b376e6db2d2fa0521f98c0e63ab0c6ae5d22183c6ba56464b356dcb6619a367",
+      "errors": []
+    },
+    {
+      "path": "midi/z7203-meditative-synth-harmony-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "96b621a86962824d1576e903c88631e4bf9ceab021d4d89bd917cac73ca6ce39",
+      "errors": []
+    },
+    {
+      "path": "midi/z7203-meditative-synth-harmony-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "e3f51b3ff0477146cbb68e474b25fbdbd4fb409dbe7f4c23e5b2e9f51babec8e",
+      "errors": []
+    },
+    {
+      "path": "midi/z7203-meditative-synth-harmony-contrast/z7203-meditative-synth-harmony-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "2729bc07da20235e94d8f58cfb7ba1a00137f810009bb740d3be1569259d3762",
+      "errors": []
+    },
+    {
+      "path": "midi/z7204-meditative-synth-harmony-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "a17be89fea40ba435a6bdd77b6a54e6033c44347fbde2e9ecd6e2e51061220a2",
+      "errors": []
+    },
+    {
+      "path": "midi/z7204-meditative-synth-harmony-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "865daec8b8a47eea1bcf9ec4e4d1404a89ac23f4472d0ad4be478e8e94ab8788",
+      "errors": []
+    },
+    {
+      "path": "midi/z7204-meditative-synth-harmony-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7204-meditative-synth-harmony-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "ff4553d4ac8a9ea13bc9a3234b074bfe94bda48b851b9baf3f36e0534ce704d6",
+      "errors": []
+    },
+    {
+      "path": "midi/z7204-meditative-synth-harmony-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "02e22d8efebcff3291dbcd0a3d60ab98e23ec093046e8e501b10e53694a60611",
+      "errors": []
+    },
+    {
+      "path": "midi/z7204-meditative-synth-harmony-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0d45f6330bbd8653ed11b2cc54b0dd9ec878583e4a3a74afdee5b35cfa15eac1",
+      "errors": []
+    },
+    {
+      "path": "midi/z7204-meditative-synth-harmony-return/z7204-meditative-synth-harmony-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "80290e5878bc18756e155cd883b67f96617a4921d6d68810c545ae70d9201f40",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

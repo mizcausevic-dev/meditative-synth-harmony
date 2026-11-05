@@ -1,0 +1,26 @@
+{
+  "title": "Meditative Synth Harmony",
+  "study": "z7201",
+  "bpm": 72,
+  "source_audio": "preview/meditative-synth-harmony-simple-synth-preview.mp3",
+  "source_audio_sha256": "4b29a168044a628559bcb4f1fa048429a092943f00b4c0f96939579c5fd2aff4",
+  "source_midi": "midi/z7201-meditative-synth-harmony-opening/z7201-meditative-synth-harmony-opening-combined.mid",
+  "source_midi_sha256": "076e56a3bdcd083f9f74c72437b2deb9aba731016eb3ba3a5f0c555de6b1f6f0",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "0bb54c4c4f7aa5bf9be4c0941ec3fa81f4b2a43289142fd1357f405911213016",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "7039319d019ff66f049c2ff8617e40940face5c47ae8466a2c16f00af4cc6432",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "50a8d254c672cc7f17476e2bb23caa793c8c0c2e9a4059687b7a118a00f59def",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

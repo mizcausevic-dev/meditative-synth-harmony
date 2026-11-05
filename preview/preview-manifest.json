@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/meditative-synth-harmony-simple-synth-preview.mp3",
+  "preview_sha256": "4b29a168044a628559bcb4f1fa048429a092943f00b4c0f96939579c5fd2aff4",
+  "source_midi_path": "midi/z7201-meditative-synth-harmony-opening/z7201-meditative-synth-harmony-opening-combined.mid",
+  "source_midi_sha256": "076e56a3bdcd083f9f74c72437b2deb9aba731016eb3ba3a5f0c555de6b1f6f0",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z7201",
+    "start_seconds": 0,
+    "end_seconds": 106.667
+  },
+  "measurement": {
+    "sample_peak": 0.176925,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
