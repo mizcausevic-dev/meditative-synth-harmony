@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/meditative-synth-harmony-midi.zip",
-      "bytes": 25349,
-      "sha256": "f8a560312f9c0a9d42ac2b3aa29c6dddf77dc9dcd38975ae48ad8dac37d14000"
+      "bytes": 26336,
+      "sha256": "613d3d18bf3167f77fb51ac46a539870ff19617d7488cb360100c5baa7bcdf84"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10018,
-      "sha256": "761a00b63ec196650c75c427397813d3d460fec58574e453f62c9ce12f619808"
+      "bytes": 10208,
+      "sha256": "57acf768f1fbdf152f30c6b65af84faed4d1ddf2422a7cf63dce7cd42fe7ee37"
     },
     {
       "path": "midi/z7201-meditative-synth-harmony-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "80290e5878bc18756e155cd883b67f96617a4921d6d68810c545ae70d9201f40"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/meditative-synth-harmony-simple-synth-preview.mp3",
       "bytes": 2573627,
       "sha256": "4b29a168044a628559bcb4f1fa048429a092943f00b4c0f96939579c5fd2aff4"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3988,
-      "sha256": "e5ff92df0e8ac123b9faa8d66e0ee98332cc69d3eb06525826b8fbc950389d7a"
+      "bytes": 4103,
+      "sha256": "1f5d43fc3024f9de5816e010d1fb2e469013cbaecddfec3ecaf899e0e8e73050"
     },
     {
       "path": "social/instagram/caption.txt",
